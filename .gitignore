@@ -1,0 +1,12 @@
+# config
+config.yml
+compile.cmd
+data/*
+.idea/*
+.vscode/*
+*.iml
+bin/*
+
+```
+data.db
+data/
